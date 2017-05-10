@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: medecinelibre
 github_username:  jeromecc
-
+zotero_groupname: clinicaldecision
 # Build settings
 markdown: kramdown
 theme: minima
